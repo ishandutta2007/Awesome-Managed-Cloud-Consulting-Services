@@ -132,11 +132,11 @@ The table below is sorted in **descending order by company size** (Annual Revenu
 
 ## 💻 Open-Source Software Tools
 
-Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOps optimization, and cloud consulting workflows. The list below is **sorted in descending order by GitHub Stars**:
+Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOps optimization, and cloud consulting workflows. The list below is **sorted in descending order by GitHub_Stars**:
 
 ### 🏆 Ranked Open-Source Solutions (by Stars)
 
-#### 1. [LocalStack](https://github.com/localstack/localstack) [![GitHub stars](https://img.shields.io/github/stars/localstack/localstack?style=social&color=white)](https://github.com/localstack/localstack/stargazers)
+#### 1. [LocalStack](https://github.com/localstack/localstack) [![GitHub_Stars](https://img.shields.io/github/stars/localstack/localstack?style=social&color=white)](https://github.com/localstack/localstack/stargazers)
 - **GitHub Repository:** [`localstack/localstack`](https://github.com/localstack/localstack)
 - **Stack:** Python / Docker | **License:** Apache-2.0 / Proprietary
 - **Key Capabilities:**
@@ -146,7 +146,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Enables offline integration testing and deterministic CI/CD pipeline validation
 - **Best For:** Cloud consulting engineers prototyping AWS architectures, running local integration tests, and validating IaC templates before deployment.
 
-#### 2. [Trivy](https://github.com/aquasecurity/trivy) [![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)
+#### 2. [Trivy](https://github.com/aquasecurity/trivy) [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers)
 - **GitHub Repository:** [`aquasecurity/trivy`](https://github.com/aquasecurity/trivy)
 - **Stack:** Go | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -156,7 +156,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Integrates into CI/CD pipelines to enforce shift-left security guardrails
 - **Best For:** Managed service providers and cloud consultants auditing client infrastructure security postures and hardening CI/CD pipelines.
 
-#### 3. [Prowler](https://github.com/prowler-cloud/prowler) [![GitHub stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers)
+#### 3. [Prowler](https://github.com/prowler-cloud/prowler) [![GitHub_Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers)
 - **GitHub Repository:** [`prowler-cloud/prowler`](https://github.com/prowler-cloud/prowler)
 - **Stack:** Python | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -166,7 +166,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - CLI-first architecture with optional web UI dashboard and multi-account scanning
 - **Best For:** Cloud security consultants conducting initial client audits, gap assessments, and continuous compliance reviews.
 
-#### 4. [Infracost](https://github.com/infracost/infracost) [![GitHub stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)
+#### 4. [Infracost](https://github.com/infracost/infracost) [![GitHub_Stars](https://img.shields.io/github/stars/infracost/infracost?style=social&color=white)](https://github.com/infracost/infracost/stargazers)
 - **GitHub Repository:** [`infracost/infracost`](https://github.com/infracost/infracost)
 - **Stack:** Go | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -176,7 +176,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - FinOps policy guardrails to flag budget overruns or expensive resource provisioning
 - **Best For:** FinOps practitioners and consulting teams wanting automated cost governance embedded directly into client developer workflows.
 
-#### 5. [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)
+#### 5. [Open Policy Agent (OPA)](https://github.com/open-policy-agent/opa) [![GitHub_Stars](https://img.shields.io/github/stars/open-policy-agent/opa?style=social&color=white)](https://github.com/open-policy-agent/opa/stargazers)
 - **GitHub Repository:** [`open-policy-agent/opa`](https://github.com/open-policy-agent/opa)
 - **Stack:** Go / Rego | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -186,7 +186,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - CNCF Graduated project with vast enterprise adoption and ecosystem tooling
 - **Best For:** Cloud architects establishing multi-account cloud governance, enterprise guardrails, and compliance-as-code frameworks.
 
-#### 6. [Checkov](https://github.com/bridgecrewio/checkov) [![GitHub stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=social&color=white)](https://github.com/bridgecrewio/checkov/stargazers)
+#### 6. [Checkov](https://github.com/bridgecrewio/checkov) [![GitHub_Stars](https://img.shields.io/github/stars/bridgecrewio/checkov?style=social&color=white)](https://github.com/bridgecrewio/checkov/stargazers)
 - **GitHub Repository:** [`bridgecrewio/checkov`](https://github.com/bridgecrewio/checkov)
 - **Stack:** Python | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -196,7 +196,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Integrates seamlessly into pre-commit hooks, GitHub Actions, and GitLab CI pipelines
 - **Best For:** Cloud consulting engineers auditing infrastructure codebases and establishing automated security gates in client delivery repositories.
 
-#### 7. [Steampipe](https://github.com/turbot/steampipe) [![GitHub stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers)
+#### 7. [Steampipe](https://github.com/turbot/steampipe) [![GitHub_Stars](https://img.shields.io/github/stars/turbot/steampipe?style=social&color=white)](https://github.com/turbot/steampipe/stargazers)
 - **GitHub Repository:** [`turbot/steampipe`](https://github.com/turbot/steampipe)
 - **Stack:** Go / PostgreSQL | **License:** AGPL-3.0
 - **Key Capabilities:**
@@ -206,7 +206,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Built-in compliance dashboards mapped to SOC 2, NIST, CIS, and PCI standards
 - **Best For:** Cloud consultants needing immediate, ad-hoc visibility across sprawling client multi-cloud estates during discovery phases.
 
-#### 8. [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)
+#### 8. [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers)
 - **GitHub Repository:** [`open-telemetry/opentelemetry-collector`](https://github.com/open-telemetry/opentelemetry-collector)
 - **Stack:** Go | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -216,7 +216,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Standardized CNCF framework adopted universally across modern cloud operations
 - **Best For:** Managed service providers building vendor-neutral monitoring architectures for enterprise clients.
 
-#### 9. [tfsec](https://github.com/aquasecurity/tfsec) [![GitHub stars](https://img.shields.io/github/stars/aquasecurity/tfsec?style=social&color=white)](https://github.com/aquasecurity/tfsec/stargazers)
+#### 9. [tfsec](https://github.com/aquasecurity/tfsec) [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/tfsec?style=social&color=white)](https://github.com/aquasecurity/tfsec/stargazers)
 - **GitHub Repository:** [`aquasecurity/tfsec`](https://github.com/aquasecurity/tfsec)
 - **Stack:** Go | **License:** MIT
 - **Key Capabilities:**
@@ -226,7 +226,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Fully integrated into Aqua Security Trivy for continuous infrastructure scanning
 - **Best For:** DevOps consultants conducting rapid code reviews of client Terraform repositories.
 
-#### 10. [OpenCost](https://github.com/opencost/opencost) [![GitHub stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers)
+#### 10. [OpenCost](https://github.com/opencost/opencost) [![GitHub_Stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers)
 - **GitHub Repository:** [`opencost/opencost`](https://github.com/opencost/opencost)
 - **Stack:** Go | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -236,7 +236,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Built-in Prometheus metrics exporter for custom Grafana FinOps dashboards
 - **Best For:** Managed Kubernetes providers and FinOps consultants allocating container infrastructure costs across multi-tenant clusters.
 
-#### 11. [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) [![GitHub stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers)
+#### 11. [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) [![GitHub_Stars](https://img.shields.io/github/stars/cloud-custodian/cloud-custodian?style=social&color=white)](https://github.com/cloud-custodian/cloud-custodian/stargazers)
 - **GitHub Repository:** [`cloud-custodian/cloud-custodian`](https://github.com/cloud-custodian/cloud-custodian)
 - **Stack:** Python | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -246,7 +246,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Automatically tags untagged resources, stops non-compliant instances, and cleans unattached disks
 - **Best For:** Cloud managed service providers (MSPs) automating continuous policy compliance and cost governance across enterprise accounts.
 
-#### 12. [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) [![GitHub stars](https://img.shields.io/github/stars/gruntwork-io/cloud-nuke?style=social&color=white)](https://github.com/gruntwork-io/cloud-nuke/stargazers)
+#### 12. [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) [![GitHub_Stars](https://img.shields.io/github/stars/gruntwork-io/cloud-nuke?style=social&color=white)](https://github.com/gruntwork-io/cloud-nuke/stargazers)
 - **GitHub Repository:** [`gruntwork-io/cloud-nuke`](https://github.com/gruntwork-io/cloud-nuke)
 - **Stack:** Go | **License:** MIT
 - **Key Capabilities:**
@@ -256,7 +256,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Essential utility for maintaining clean sandbox and demo environments
 - **Best For:** Cloud consulting engineers tearing down ephemeral migration test labs and client proof-of-concept sandboxes.
 
-#### 13. [OptScale](https://github.com/hystax/optscale) [![GitHub stars](https://img.shields.io/github/stars/hystax/optscale?style=social&color=white)](https://github.com/hystax/optscale/stargazers)
+#### 13. [OptScale](https://github.com/hystax/optscale) [![GitHub_Stars](https://img.shields.io/github/stars/hystax/optscale?style=social&color=white)](https://github.com/hystax/optscale/stargazers)
 - **GitHub Repository:** [`hystax/optscale`](https://github.com/hystax/optscale)
 - **Stack:** Python / Kubernetes | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -266,7 +266,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Specialized ML workload tracking (GPU/CPU utilization, model training run expense tracking)
 - **Best For:** MSPs and FinOps consultants seeking a self-hosted, white-labelable platform to deliver continuous cost optimization services.
 
-#### 14. [Azure Enterprise-Scale (ALZ)](https://github.com/Azure/Enterprise-Scale) [![GitHub stars](https://img.shields.io/github/stars/Azure/Enterprise-Scale?style=social&color=white)](https://github.com/Azure/Enterprise-Scale/stargazers)
+#### 14. [Azure Enterprise-Scale (ALZ)](https://github.com/Azure/Enterprise-Scale) [![GitHub_Stars](https://img.shields.io/github/stars/Azure/Enterprise-Scale?style=social&color=white)](https://github.com/Azure/Enterprise-Scale/stargazers)
 - **GitHub Repository:** [`Azure/Enterprise-Scale`](https://github.com/Azure/Enterprise-Scale)
 - **Stack:** Bicep / ARM / Terraform | **License:** MIT
 - **Key Capabilities:**
@@ -276,7 +276,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Modular architecture adapted for greenfield deployments and legacy migration brownfield adoption
 - **Best For:** Azure cloud consultants and architects building scalable, compliant landing zones for enterprise migrations.
 
-#### 15. [terraform-compliance](https://github.com/eerkunt/terraform-compliance) [![GitHub stars](https://img.shields.io/github/stars/eerkunt/terraform-compliance?style=social&color=white)](https://github.com/eerkunt/terraform-compliance/stargazers)
+#### 15. [terraform-compliance](https://github.com/eerkunt/terraform-compliance) [![GitHub_Stars](https://img.shields.io/github/stars/eerkunt/terraform-compliance?style=social&color=white)](https://github.com/eerkunt/terraform-compliance/stargazers)
 - **GitHub Repository:** [`eerkunt/terraform-compliance`](https://github.com/eerkunt/terraform-compliance)
 - **Stack:** Python | **License:** MIT
 - **Key Capabilities:**
@@ -286,7 +286,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Runs in local CLI and plugs into CI/CD pipelines
 - **Best For:** Compliance consultants validating that client infrastructure code meets security frameworks (SOC 2, ISO 27001).
 
-#### 16. [Atmos](https://github.com/cloudposse/atmos) [![GitHub stars](https://img.shields.io/github/stars/cloudposse/atmos?style=social&color=white)](https://github.com/cloudposse/atmos/stargazers)
+#### 16. [Atmos](https://github.com/cloudposse/atmos) [![GitHub_Stars](https://img.shields.io/github/stars/cloudposse/atmos?style=social&color=white)](https://github.com/cloudposse/atmos/stargazers)
 - **GitHub Repository:** [`cloudposse/atmos`](https://github.com/cloudposse/atmos)
 - **Stack:** Go / YAML / OPA | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -296,7 +296,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Native agent skills and MCP server support for AI-assisted infrastructure operations
 - **Best For:** Cloud platform engineers and consultants standardizing reusable landing zones and multi-account cloud topologies.
 
-#### 17. [Finala](https://github.com/similarweb/finala) [![GitHub stars](https://img.shields.io/github/stars/similarweb/finala?style=social&color=white)](https://github.com/similarweb/finala/stargazers)
+#### 17. [Finala](https://github.com/similarweb/finala) [![GitHub_Stars](https://img.shields.io/github/stars/similarweb/finala?style=social&color=white)](https://github.com/similarweb/finala/stargazers)
 - **GitHub Repository:** [`similarweb/finala`](https://github.com/similarweb/finala)
 - **Stack:** Go | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -306,7 +306,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Lightweight Go executable easily scheduled via cron or CI/CD pipelines
 - **Best For:** FinOps consultants conducting rapid cloud cost waste assessments during initial engagement discovery.
 
-#### 18. [Cloud Migration as a Service (Coriolis)](https://github.com/cloudbase/coriolis) [![GitHub stars](https://img.shields.io/github/stars/cloudbase/coriolis?style=social&color=white)](https://github.com/cloudbase/coriolis/stargazers)
+#### 18. [Cloud Migration as a Service (Coriolis)](https://github.com/cloudbase/coriolis) [![GitHub_Stars](https://img.shields.io/github/stars/cloudbase/coriolis?style=social&color=white)](https://github.com/cloudbase/coriolis/stargazers)
 - **GitHub Repository:** [`cloudbase/coriolis`](https://github.com/cloudbase/coriolis)
 - **Stack:** Python / OpenStack | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -316,7 +316,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Re-drivers guest OS storage configurations and network drivers automatically for the target platform
 - **Best For:** Migration consultants orchestrating cross-cloud and hybrid private cloud workload transfers.
 
-#### 19. [Cloud Migration Factory on AWS](https://github.com/aws-solutions/cloud-migration-factory-on-aws) [![GitHub stars](https://img.shields.io/github/stars/aws-solutions/cloud-migration-factory-on-aws?style=social&color=white)](https://github.com/aws-solutions/cloud-migration-factory-on-aws/stargazers)
+#### 19. [Cloud Migration Factory on AWS](https://github.com/aws-solutions/cloud-migration-factory-on-aws) [![GitHub_Stars](https://img.shields.io/github/stars/aws-solutions/cloud-migration-factory-on-aws?style=social&color=white)](https://github.com/aws-solutions/cloud-migration-factory-on-aws/stargazers)
 - **GitHub Repository:** [`aws-solutions/cloud-migration-factory-on-aws`](https://github.com/aws-solutions/cloud-migration-factory-on-aws)
 - **Stack:** TypeScript / Python / AWS CDK | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -326,7 +326,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Post-launch script automation to install enterprise monitoring agents and verify application health
 - **Best For:** Cloud migration consultants executing structured, high-volume server migration waves to AWS.
 
-#### 20. [Eclipse Xpanse](https://github.com/eclipse-xpanse/xpanse) [![GitHub stars](https://img.shields.io/github/stars/eclipse-xpanse/xpanse?style=social&color=white)](https://github.com/eclipse-xpanse/xpanse/stargazers)
+#### 20. [Eclipse Xpanse](https://github.com/eclipse-xpanse/xpanse) [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-xpanse/xpanse?style=social&color=white)](https://github.com/eclipse-xpanse/xpanse/stargazers)
 - **GitHub Repository:** [`eclipse-xpanse/xpanse`](https://github.com/eclipse-xpanse/xpanse)
 - **Stack:** Java / Spring Boot | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -336,7 +336,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Standardized OCL (Open Cloud Language) YAML schema for defining managed service architectures
 - **Best For:** Independent software vendors (ISVs) and service providers delivering portable managed cloud applications.
 
-#### 21. [Cloud Migration MCP Server](https://github.com/chrishorne74/cloud-migration-mcp) [![GitHub stars](https://img.shields.io/github/stars/chrishorne74/cloud-migration-mcp?style=social&color=white)](https://github.com/chrishorne74/cloud-migration-mcp/stargazers)
+#### 21. [Cloud Migration MCP Server](https://github.com/chrishorne74/cloud-migration-mcp) [![GitHub_Stars](https://img.shields.io/github/stars/chrishorne74/cloud-migration-mcp?style=social&color=white)](https://github.com/chrishorne74/cloud-migration-mcp/stargazers)
 - **GitHub Repository:** [`chrishorne74/cloud-migration-mcp`](https://github.com/chrishorne74/cloud-migration-mcp)
 - **Stack:** TypeScript / MCP | **License:** MIT
 - **Key Capabilities:**
@@ -346,7 +346,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
   - Generates Rough Order of Magnitude (ROM) cost estimations and Draw.io architecture diagrams
 - **Best For:** Cloud consultants and solution architects leveraging AI coding assistants (Claude Code, Cursor, Copilot) for migration planning.
 
-#### 22. [CM-ANT](https://github.com/cloud-barista/cm-ant) [![GitHub stars](https://img.shields.io/github/stars/cloud-barista/cm-ant?style=social&color=white)](https://github.com/cloud-barista/cm-ant/stargazers)
+#### 22. [CM-ANT](https://github.com/cloud-barista/cm-ant) [![GitHub_Stars](https://img.shields.io/github/stars/cloud-barista/cm-ant?style=social&color=white)](https://github.com/cloud-barista/cm-ant/stargazers)
 - **GitHub Repository:** [`cloud-barista/cm-ant`](https://github.com/cloud-barista/cm-ant)
 - **Stack:** Go / Docker | **License:** Apache-2.0
 - **Key Capabilities:**
@@ -360,7 +360,7 @@ Self-hosted, community-driven tools for managed cloud, DevOps engineering, FinOp
 
 ### 📊 Comparison Matrix at a Glance
 
-| 🛠️ Tool / Platform | 🏷️ Category | ⭐ GitHub Stars | 💻 Primary Stack | 🚀 Migration | 💰 FinOps | 🛡️ Security / Compliance | 🌐 Multi-Cloud | 🏠 Self-Hosted |
+| 🛠️ Tool / Platform | 🏷️ Category | ⭐ GitHub_Stars | 💻 Primary Stack | 🚀 Migration | 💰 FinOps | 🛡️ Security / Compliance | 🌐 Multi-Cloud | 🏠 Self-Hosted |
 |:---|:---|:---:|:---|:---:|:---:|:---:|:---:|:---:|
 | **LocalStack** | Cloud Emulation | 65k+ | Python / Docker | ✅ | ❌ | ✅ | AWS Local | ✅ |
 | **Trivy** | Vulnerability / Misconfig | 39k+ | Go | ❌ | ❌ | ✅ CIS/CVE | AWS / Azure / GCP | ✅ |
@@ -412,7 +412,7 @@ Contributions are warmly welcomed! If you know of an exceptional open-source too
 1. Fork this repository. 🍴
 2. Create a branch (`git checkout -b feature/new-cloud-tool`). 🌿
 3. Add your tool to the appropriate section in alphabetical or star-ranked order with:
-   - Tool name, GitHub link, and star badge (`style=social&color=white` linking to the stargazers page)
+   - Tool name, GitHub link, and Stars_Badge (`style=social&color=white` linking to the stargazers page)
    - Technology stack and open-source license
    - Concise summary of key capabilities and consulting use cases
 4. Commit your changes and open a Pull Request. 🚀
